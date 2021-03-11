@@ -1,0 +1,17 @@
+{
+  "name": "ux2ygpp-m6z2sm",
+  "hash": "3yGwJaEkzJKDAty985Sp6CWPxQAKHkNFunuolt30N/Y=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/tomspencer/Desktop/tic-tac-toe/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::706054169063:role/ux2ygpp-uq4zroc"
+  },
+  "arn": "arn:aws:lambda:us-east-1:706054169063:function:ux2ygpp-m6z2sm",
+  "region": "us-east-1"
+}
