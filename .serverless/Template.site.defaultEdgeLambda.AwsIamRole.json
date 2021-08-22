@@ -1,6 +1,6 @@
 {
-  "name": "ux2ygpp-uq4zroc",
-  "arn": "arn:aws:iam::706054169063:role/ux2ygpp-uq4zroc",
+  "name": "2c8e71s-g8unrx",
+  "arn": "arn:aws:iam::289971349213:role/2c8e71s-g8unrx",
   "service": [
     "lambda.amazonaws.com",
     "edgelambda.amazonaws.com"
@@ -19,7 +19,7 @@
       },
       {
         "Effect": "Allow",
-        "Resource": "arn:aws:s3:::ux2ygpp-86riuei/*",
+        "Resource": "arn:aws:s3:::2c8e71s-qg2av5/*",
         "Action": [
           "s3:GetObject",
           "s3:PutObject"
